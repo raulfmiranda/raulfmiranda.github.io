@@ -1,0 +1,19 @@
+header {
+    padding: 0px;
+}
+
+.carousel-img-background {
+    object-fit: cover;
+    height: 400px;
+}
+
+.carousel-caption {
+    padding-bottom: 6rem;
+}
+
+@media only screen and (min-width: 769px) {
+    .carousel-caption {
+        padding-bottom: 8rem;
+        text-align: right;
+    }
+}
