@@ -1,0 +1,17 @@
+body {
+    font-family: 'Eczar', serif;
+}
+
+:root {
+    --bs-dark-rgb: 139, 0, 0;
+}
+
+.btn-primary {
+    background-color: #8b0000;
+    border-color: #000;
+}
+
+.btn-primary:hover {
+    background-color: #8b0000bb;
+    border-color: #fff;
+}

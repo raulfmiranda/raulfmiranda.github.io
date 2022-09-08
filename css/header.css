@@ -9,11 +9,19 @@ header {
 
 .carousel-caption {
     padding-bottom: 3rem;
+    background-color: #8b000044;
+    padding: 20px;
+    border-radius: 5px;
+    text-shadow: 0 0 3px #000;
+}
+
+.carousel-caption-a {
+    margin-bottom: 80px;
 }
 
 @media only screen and (min-width: 769px) {
     .carousel-caption {
         padding-bottom: 8rem;
-        text-align: right;
+        padding-top: 2rem;
     }
 }
