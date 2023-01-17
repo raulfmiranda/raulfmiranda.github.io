@@ -9,10 +9,8 @@ header {
 
 .carousel-caption {
     padding-bottom: 3rem;
-    background-color: #8b000044;
+    color: #8b0000;
     padding: 20px;
-    border-radius: 5px;
-    text-shadow: 0 0 3px #000;
 }
 
 .carousel-caption-a {
