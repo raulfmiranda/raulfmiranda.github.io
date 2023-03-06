@@ -3,16 +3,16 @@ body {
 }
 
 :root {
-    --bs-dark-rgb: 139, 0, 0;
+    --bs-dark-rgb: 88, 115, 144;
 }
 
 .btn-primary {
-    background-color: #8b0000;
+    background-color: #587390;
     border-color: #000;
 }
 
 .btn-primary:hover {
-    background-color: #8b0000bb;
+    background-color: #587390bb;
     border-color: #fff;
 }
 
